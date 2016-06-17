@@ -3,7 +3,9 @@ pinkcoin development tree
 
 pinkcoin is a PoW/PoS-based cryptocurrency.
 
-ANN:https://bitcointalk.org/index.php?topic=591666.0
+ANN:https://bitcointalk.org/index.php?topic=836437.0
+
+Always looking for talented help please join our slack at https://pinkarmy.slack.com/
 
 NO PREMINE,NO IPO
 
